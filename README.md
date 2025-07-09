@@ -2,8 +2,6 @@
 
 ![Banner](github-header-image.png.png)
 
-Coder nocturno y soñador diurno. Transformando ideas en realidad a través del poder del código.🌟
-Siempre listo para resolver problemas y aprender algo nuevo.
 
 ## Tecnologías 💻
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
